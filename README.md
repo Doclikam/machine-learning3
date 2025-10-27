@@ -1,2 +1,2 @@
-Skin Cnacer Detection
-deep learning projects
+Skin Cancer Detection
+

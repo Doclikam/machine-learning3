@@ -1,2 +1,2 @@
-# machine-learning3
+Skin Cnacer Detection
 deep learning projects
